@@ -1,4 +1,4 @@
-## Hi, I'm [Klas Lundqvist]
+## Hi, I'm Klas Lundqvist
 
 I'm a Computer Science student with a strong interest in
 Cybersecurity, programming and problem solving.
